@@ -103,7 +103,7 @@ export default function App() {
 }
 const styles = StyleSheet.create({
   container: { flex: 1, backgroundColor: '#fff' },
-  topo: { height: 100, padding: 20, paddingTop: 40, marginBottom: 20, backgroundColor: '#e73e33' },
+  topo: { height: 100, padding: 20, paddingTop: 40, marginBottom: 20, backgroundColor: '#20b2aa' },
   topoTitulo: { fontSize: 22, marginBottom: 10, color: '#fff', textAlign: 'center' },
   cardContainer: { borderWidth: 1, borderColor: '#d5d5d5', borderRadius: 4, marginBottom: 10, marginHorizontal: 20, padding: 10 },
   cardTitle: { fontSize: 22, marginBottom: 20, textAlign: 'center', color: '#656565' },
